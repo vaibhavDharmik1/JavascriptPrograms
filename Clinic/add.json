@@ -1,0 +1,62 @@
+[
+    {
+        "firstName": "Vaibhav",
+        "lastName": "Dharmik",
+        "address": "Nagpur",
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "weight": "66.65",
+        "phoneNumber": "91 9834680875",
+        "gender": "Male"
+    },
+    {
+        "firstName": "Vishnu",
+        "lastName": "Sateesh",
+        "address": "Chandrapur",
+        "city": "Chandrapur",
+        "state": "Maharashtra",
+        "weight": "75",
+        "phoneNumber": "91 9834680875",
+        "gender": "Male"
+    },
+    {
+        "firstName": "Meenal",
+        "lastName": "Dharmik",
+        "address": "Nagpur",
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "weight": "65.66",
+        "phoneNumber": "91 9834680875",
+        "gender": "Male"
+    },
+    {
+        "firstName": "Shrirang",
+        "lastName": "Bhurade",
+        "address": "Nagpur",
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "weight": "55",
+        "phoneNumber": "91 9834680875",
+        "gender": "Male"
+    },
+    {
+        "firstName": "Anita",
+        "lastName": "Dharmik",
+        "address": "Nagpur",
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "weight": "66",
+        "phoneNumber": "91 9834680875",
+        "gender": "Female"
+    },
+    {
+        "firstName": "Saai",
+        "lastName": "Burade",
+        "address": "Nagpur",
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "weight": "55",
+        "phoneNumber": "91 9834680875",
+        "gender": "Male"
+    }
+]
